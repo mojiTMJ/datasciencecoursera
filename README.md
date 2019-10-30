@@ -22,3 +22,5 @@ Submit |  Pull Request | Your Github Profile Here
 
 ## License
 Anyone may contribute after each assignment is turned in and graded. Feel free to submit a pull request. 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+MojiTMJ
